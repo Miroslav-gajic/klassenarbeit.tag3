@@ -1,0 +1,21 @@
+div {
+    border: 5px solid red;
+    
+}
+
+#textColor {
+    color: blue;
+}
+
+#third span {
+    visibility: hidden;
+}
+
+.right p {
+    display: none;
+}
+
+#img {
+    width: 360px;
+    height: 160px;
+}
